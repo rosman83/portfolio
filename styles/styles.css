@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+.core {
+  background-color: #121619;
+}
+
+.greenprimary {
+  background-color: #2de370;
+}
+
+.greentext {
+  color: #2de370;
+}
+
+.widthconstrict {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.almostscreen {
+  min-height: 92vh;
+}
+
+.aipha {
+background-image: linear-gradient(black, black), url('/agc.jpg');
+background-position: center;
+background-blend-mode: saturation;
+background-size: cover;
+}
+
+.agc {
+
+}
+
+.pd {
+background-image: url('https://cdn.dribbble.com/users/3669017/screenshots/6574218/portfolio9.png?compress=1&resize=800x600&vertical=top');
+background-position: center;
+background-blend-mode: saturation;
+background-size: cover;
+}
+
+.nk {
+
+}
+
+.mcv {
+
+}
