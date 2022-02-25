@@ -82,16 +82,6 @@ const Home: NextPage = () => {
                 </div>
             </div>
 
-            <div className='mb-8 shadow-lg  rounded-lg w-full flex items-center justify-center h-48 flex flex-row agc'>
-                <div className=' px-6 flex flex-col gap-3 rounded-l-lg bg-black h-full text-center flex items-center justify-center w-2/4'>
-                  <h1 className='font-bold text-white text-xl sm:text-2xl opacity-75'>Cat Bricks Clubhouse</h1>
-                  <h1 className='font-medium text-white text-sm sm:text-lg opacity-75 greentext'>Lead Developer</h1>
-                </div>
-                <div className='rounded-r-lg overflow-hidden bg-red-200 h-full w-full overflow-hidden'>
-                  <img className='object-cover  object-center w-full h-full' src='/cbc.png' />
-                </div>
-            </div>
-
           </div>
         </div>
       </div>
