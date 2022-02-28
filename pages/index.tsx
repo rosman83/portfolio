@@ -31,6 +31,17 @@ const Home: NextPage = () => {
       <Head>
         <title>Invader - Development</title>
         <link rel="icon" href="/favicon.ico" />
+
+        <meta property="og:title" content="👾 Invader Development" />
+        <meta property="og:url" content="https://www.invader.codes/" />
+        <meta property="og:image" content="/preview.png" />
+        <meta name="og:description" content="INVADER DEVELOPMENT - Full stack expertise in Web3 software and application programming and design. We build smoothly designed and powerfully secure servers and web applications, focusing on all things Web3 and NFT/Crypto." />
+
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="👾 Invader Development" />
+        <meta name="twitter:description" content="INVADER DEVELOPMENT - Full stack expertise in Web3 software and application programming and design. We build smoothly designed and powerfully secure servers and web applications, focusing on all things Web3 and NFT/Crypto." />
+        <meta name="twitter:image" content="/preview.png" />
       </Head>
 
       <main className="flex w-full flex-1 flex-col justify-center px-12 almostscreen">
