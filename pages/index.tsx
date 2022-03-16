@@ -86,6 +86,23 @@ const Home: NextPage = () => {
             <div className="agc  flex flex h-48 w-full flex-row items-center justify-center rounded-lg shadow-lg">
               <div className="flex flex h-full w-2/4 flex-col items-center justify-center gap-3 rounded-l-lg bg-black px-6 text-center">
                 <h1 className="text-xl font-bold text-white opacity-75 sm:text-2xl">
+                  Umami Finance
+                </h1>
+                <h1 className="greentext text-sm font-medium text-white opacity-75 sm:text-lg">
+                  Solidity Developer
+                </h1>
+              </div>
+              <div className="h-full w-full overflow-hidden overflow-hidden rounded-r-lg bg-red-200">
+                <img
+                  className="h-full w-full object-cover object-center"
+                  src="/umami.png"
+                />
+              </div>
+            </div>
+
+            <div className="agc  flex flex h-48 w-full flex-row items-center justify-center rounded-lg shadow-lg">
+              <div className="flex flex h-full w-2/4 flex-col items-center justify-center gap-3 rounded-l-lg bg-black px-6 text-center">
+                <h1 className="text-xl font-bold text-white opacity-75 sm:text-2xl">
                   Alpha Girl Club
                 </h1>
                 <h1 className="greentext text-sm font-medium text-white opacity-75 sm:text-lg">
